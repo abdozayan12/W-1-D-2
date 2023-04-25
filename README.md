@@ -1,80 +1,103 @@
 <a name="readme-top"></a>
-
-
-
 <div align="center">
- 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
+  <h3><b>Hello Microverse!</b></h3>
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-- [🛠 Built With](#built-with)     
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-- [Setup](#setup)
- - [Prerequisites](#prerequisites)
- - [Install](#install)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
-# 📖 [your_project_name] <a name="about-project"></a>
+
+# 📖 [Hello Microverse] <a name="about-project"></a>
+
 My Week 1 Day 2 project as a micronut
-**[your_project__name]** is a Hello Microverse!
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
-<!-- GETTING STARTED -->
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- Header tag
+- class tag
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
- a new developer could know how to make a header 
+> Describe how a new developer could make use of your project.
 
-
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+Prerequisites
 In order to run this project you need:
 
-text editor
+VisualStucio Code or any other IDE.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+### Usage
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+To run the project, execute the following command:
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-
-
-
-
-<!-- AUTHORS -->
+git@github.com:abdozayan12/W-1-D-2.git
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -82,37 +105,53 @@ Example command:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/abdozayan12)
+- GitHub: [@githubhandle](https://github.com/abdozayan12/W-1-D-2)
 - Twitter: [@twitterhandle](https://twitter.com/zayan_abdo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdo-zayan-39b073128/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- add images
+- add paragraph
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
 
-<!-- ACKNOWLEDGEMENTS -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse for allowing me to be part of this course
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-<!-- LICENSE -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
