@@ -64,7 +64,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 Abd elhakim
 
 - GitHub: [@githubhandle](https://github.com/abdozayan12/W-1-D-2)
 - Twitter: [@twitterhandle](https://twitter.com/zayan_abdo)
@@ -94,7 +94,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project give a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,6 +106,6 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [LICENSE](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
