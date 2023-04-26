@@ -27,22 +27,20 @@
 
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
-Hello Microverse is week one day tow project
+Hello Microverse my first milestone at microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
+- HTML 
+- CSS
 ### Tech Stack <a name="tech-stack"></a>
 
+- package.json
 ### Key Features <a name="key-features"></a>
 
-- Header
-- class
-
+Hello World!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -58,16 +56,18 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-### Usage
+https://github.com/abdozayan12/W-1-D-2
 
-To run the project, execute the following command:
+ ````
+ cd W-1-D-2
+ ````
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 Abd elhakim
 
-- GitHub: [@githubhandle](https://github.com/abdozayan12/W-1-D-2)
-- Twitter: [@twitterhandle](https://twitter.com/zayan_abdo)
+- GitHub: [@GitHub](https://github.com/abdozayan12)
+- Twitter: [@Twitter](https://twitter.com/zayan_abdo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdo-zayan-39b073128/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,7 +86,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/abdozayan12/W-1-D-2/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,6 +106,6 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
